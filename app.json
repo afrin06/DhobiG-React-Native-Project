@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "dobi",
+    "slug": "dobi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "dobi"
+}
